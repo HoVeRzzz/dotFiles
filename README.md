@@ -1,2 +1,3 @@
 # dotFiles
-Random
+Locations:
+mpv: %USERPROFILE%\AppData\Roaming
