@@ -11,6 +11,11 @@
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Used in mpv config (Put this into PATH variable)
 
 ==========================================================================================
+**nvim:** Place the 'nvim' folder that u downloaded in: 
+  
+~/.config **(GNU/LINUX)**
+
+==========================================================================================
   
 **.xinitrc:**
 Place the the home dir (~/)
