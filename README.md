@@ -1,19 +1,8 @@
 # dotFiles
 ## Locations:
 
+Place all the folders into ~/.config **EXCEPT** .xinitrc file.
 
-**mpv:** Place the 'mpv' folder that u downloaded in:  
-  
-%USERPROFILE%\AppData\Roaming  **(WINDOWS)** 
-  
-~/.config **(GNU/LINUX)**  
-                                              
-[yt-dlp](https://github.com/yt-dlp/yt-dlp) - Used in mpv config (Put this into PATH variable)
-
-==========================================================================================
-**nvim:** Place the 'nvim' folder that u downloaded in: 
-  
-~/.config **(GNU/LINUX)**
 
 ==========================================================================================
   
@@ -23,3 +12,8 @@ Place the the home dir (~/)
 Don't forget to change **xrandr** args
   
 ==========================================================================================
+### Windows Users:
+  
+**mpv**: Place the 'mpv' folder that u downloaded in:
+
+%USERPROFILE%\AppData\Roaming
