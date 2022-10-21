@@ -13,3 +13,4 @@
 ==========================================================================================
 **.xinitrc:**
 Place the the home dir (~/)
+Don't forget to change **xrandr** args
