@@ -11,3 +11,5 @@
 [yt-dlp](https://github.com/yt-dlp/yt-dlp) - Used in mpv config (Put this into PATH variable)
 
 ==========================================================================================
+**.xinitrc:**
+Place the the home dir (~/)
