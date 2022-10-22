@@ -12,6 +12,11 @@ Place the the home dir (~/)
 Don't forget to change **xrandr** args
   
 ==========================================================================================
+**kitty.conf:**
+  
+Place: ~/.config/kitty/
+ 
+==========================================================================================
 ### Windows Users:
   
 **mpv**: Place the 'mpv' folder that u downloaded in:
