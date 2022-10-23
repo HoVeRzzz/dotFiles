@@ -1,4 +1,4 @@
-export GTK_THEME=Catppuccin-Mocha-Lavender-hdpi:dark
+export GTK_THEME=Catppuccin-Mocha-Pink:dark
 exec dwm &
 exec slstatus 
 xrandr --output DP-0 --mode 1920x1080 --rate 144.00 --output --DVI-D-1 --mode 1920x1080 --rate 60.00 --right-of DP-0
