@@ -11,5 +11,7 @@ xrandr --output DP-0 --mode 1920x1080 --rate 144 --output --DVI-D-1 --mode 1920x
 
 [[ -f ~/.Xresources ]] && xrdb -merge -I$HOME ~/.Xresources
 
+feh --bg-scale /home/hoverzzz/Wallpapers/evening-sky.png
+
 exec dwm &
 exec slstatus 
