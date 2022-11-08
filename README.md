@@ -18,6 +18,12 @@ Don't forget to change **xrandr** args
 Place: ~/.config/kitty/
  
 ==========================================================================================
+  
+**nvim**
+  
+**Don't forget to install packer** [Packer](https://github.com/wbthomason/packer.nvim)
+ 
+==========================================================================================
 ### Windows Users:
   
 **mpv**: Place the 'mpv' folder that u downloaded in:
